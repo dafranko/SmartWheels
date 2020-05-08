@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SmartWheels</string>
+    <string name="cecs_490_project">CECS 490 Project</string>
+    <string name="right">Right</string>
+    <string name="down">Down</string>
+    <string name="left">Left</string>
+    <string name="up">Up</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="application">Application</string>
+    <string name="stationary">Stationary</string>
+    <string name="following">Following</string>
+</resources>
