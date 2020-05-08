@@ -1,2 +1,2 @@
 # SmartWheels
-Senior Project 
+Senior Project, code for application and embedded system 
