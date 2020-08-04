@@ -1,3 +1,3 @@
 # SmartWheels
-Senior Project, code for application and embedded system 
-Code for application is located in file SmartWheelsFinal
+#Senior Project, code for application and embedded system 
+#Code for application is located in file SmartWheelsFinal
